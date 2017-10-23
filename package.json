@@ -5,7 +5,7 @@
     "main": "slick/slick.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kenwheeler/slick.git"
+        "url": "https://github.com/augustine-institute/slick.git"
     },
     "keywords": [
         "carousel",
@@ -15,6 +15,6 @@
     "author": "Ken Wheeler",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/kenwheeler/slick/issues"
+        "url": "https://github.com/augustine-institute/slick/issues"
     }
 }
